@@ -1,0 +1,16 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "'# Hello From VuePress'",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
